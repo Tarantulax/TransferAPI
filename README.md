@@ -1,4 +1,4 @@
-#Bilgilendirme
+# Bilgilendirme
 ## Kurulum
 
 appsettings.json'dan ConnectionStrings setlenmeli ve db backup açılması gerekiyor
